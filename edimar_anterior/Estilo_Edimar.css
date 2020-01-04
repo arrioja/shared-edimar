@@ -1,0 +1,157 @@
+.letra_Busq {
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: bold;
+	color: #C3C3C3;
+}
+body {
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: normal;
+}
+.Borde_I {
+	border-top: 1px doble #006600;
+	border-right: 1px solid #006600;
+	border-bottom: 1px none #006600;
+	border-left: 1px solid #006600;
+}
+.Borde_Punteado {
+	border-top: 1px none #C3C3C3;
+	border-right: 1px none #C3C3C3;
+	border-bottom: 1px dashed #C3C3C3;
+	border-left: 1px none #C3C3C3;
+}
+.Borde_PunteadoII {
+	border-top: 1px dashed #C3C3C3;
+	border-right: 1px none #C3C3C3;
+	border-bottom: 1px dashed #C3C3C3;
+	border-left: 1px none #C3C3C3;
+}
+.borde_rayado {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: dashed;
+	border-top-color: #C3C3C3;
+	border-right-color: #C3C3C3;
+	border-bottom-color: #C3C3C3;
+	border-left-color: #C3C3C3;
+}
+.Estli_hr {
+	border: 1px solid #000000;
+}
+.Letra_Sesion {
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.Titulo {
+	font-size: 14px;
+	font-weight: bold;
+	color: #3385B5;
+}
+.Parrafo {
+	text-align: justify;
+	text-indent: 15pt;
+	line-height: 20px;
+	margin: 5px;
+}
+.borde_II {
+	border-top: 2px none #3788B7;
+	border-right: 2px none #3788B7;
+	border-bottom: 2px solid #3788B7;
+	border-left: 2px solid #3788B7;
+	line-height: 15px;
+	text-align: justify;
+}
+.Enca_Cuadro {
+	font-size: 12px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.Titulo_II {
+	font-size: 12px;
+	font-weight: bold;
+}
+.borde_III {
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-top-style: none;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #3385B5;
+	border-right-color: #3385B5;
+	border-bottom-color: #3385B5;
+	border-left-color: #3385B5;
+}
+.cuadro {
+	border: 1px solid #6699CC;
+}
+.borde_Sup {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #6699CC;
+	border-right-color: #6699CC;
+	border-bottom-color: #6699CC;
+	border-left-color: #6699CC;
+	font-size: 12px;
+}
+.borde_SupI {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #6699CC;
+	border-right-color: #6699CC;
+	border-bottom-color: #6699CC;
+	border-left-color: #6699CC;
+}
+.Titulo_I {
+	font-family: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+a:link {
+	font-size: 12px;
+	font-weight: normal;
+	color: #3366FF;
+	text-decoration: none;
+}
+a:hover {
+	font-size: 12px;
+	font-weight: bold;
+	color: #3366FF;
+	text-decoration: underline;
+}
+a:visited {
+	font-weight: normal;
+	color: #009966;
+	text-decoration: none;
+	font-size: 12px;
+}
+.Parrafo_II {
+	line-height: 20px;
+	text-align: justify;
+	margin: 10px;
+}
+a:visited:hover {
+	font-weight: bold;
+	text-decoration: underline;
+}

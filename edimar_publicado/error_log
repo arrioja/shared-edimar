@@ -1,0 +1,8 @@
+[15-May-2007 22:23:58] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/borg1978/public_html/edimar2/conexion.php on line 1
+[15-May-2007 22:23:58] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/borg1978/public_html/edimar2/conexion.php on line 2
+[15-May-2007 22:23:58] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/borg1978/public_html/edimar2/index.php on line 3
+[15-May-2007 22:31:16] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/borg1978/public_html/edimar2/conexion.php on line 1
+[15-May-2007 22:31:16] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/borg1978/public_html/edimar2/conexion.php on line 2
+[15-May-2007 22:31:16] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/borg1978/public_html/edimar2/index.php on line 3
+[30-May-2007 08:29:42] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/borg1978/public_html/edimar2/conexion.php on line 28
+[10-Jun-2007 18:43:56] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/borg1978/public_html/edimar2/conexion.php on line 28

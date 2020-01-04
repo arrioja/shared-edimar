@@ -1,0 +1,19 @@
+/* CSS Document */
+
+a.categoria:link {text-decoration:none; color:#666666}
+a.categoria:hover{text-decoration:none;color:#000000}
+a.categoria:visited{text-decoration:none;color:#000000}
+
+.noticias2 {font-family:Arial, Helvetica, sans-serif;color:#666666;font-size:14px} /*Titulares*/
+.noticias {font-family:Arial, Helvetica, sans-serif;color:#666666;font-size:14px} /*Descripcion*/
+
+.caja_amigo {background-color:#ffffff;font-family:Arial, Helvetica, sans-serif;font-size:10px;color:#000000;font-weight:600}
+
+.boton_amigo {background-color:#000000;font-family:Verdana, Arial, Helvetica, sans-serif;color:#FFFFFF;font-size:10px;font-weight:400;border-style:solid;border-width:thin}
+
+/*.boton {background-color:#cbb150;font-family:Verdana, Arial, Helvetica, sans-serif;color:#FFFFFF;font-size:10px;font-weight:600;border-style:groove;border-width:thin}
+
+.caja {background-color:#cbb150;font-family:Arial, Helvetica, sans-serif;font-size:12px;color:#FFFFFF;font-weight:600}
+*/
+
+.caja {border-width:0.001cm;border-style:solid;background-color:#F9F9F9;font-size:10px;font-family:Arial, Helvetica, sans-serif}
